@@ -1,0 +1,25 @@
+
+Simple hotel management system with data from Mysql database.
+
+1) Improvements ideas:
+
+1) optimalization database data,
+2) gui interface or web based interface,
+3) changing or improve project structure,
+4) better input data errors handling,
+5) extra user data functionality:
+- remove user by id,
+- editing user data,
+- generating charts,
+- and more?
+
+All ideas came from 10 minutes redesigning thinking about project at all.
+In time ideas will be improved.
+
+
+2) What direction will be taken for this project?
+
+This project was created as simple as possible project for training python
+with database management data.
+
+Version 1.0 is basic version which can or can't be improved.
