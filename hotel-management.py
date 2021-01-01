@@ -348,3 +348,4 @@ if myConnection:
 else:
     print("\nMysql Connection failed.")
 #end module
+
